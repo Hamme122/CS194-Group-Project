@@ -1,7 +1,7 @@
 
 
 # CS194-Group-Project
-
+This is our group assignment. We have done some reproduction and testing based on the source code. For specific experimental results, please see our experimental report. Thank you!
 # BibTeX
 
 ```bibtex
